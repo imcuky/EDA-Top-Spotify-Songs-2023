@@ -4,6 +4,8 @@
 
 This data was retrieved from Kaggle created by Nidula Elgiriyewithana, you can find it <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023">here</a>
 
+> Note: Plotly interactive plots, including those created with Plotly Express, may not display directly in a GitHub repository
+
 ### Purpose
 
 ### Data Descriptions
